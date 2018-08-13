@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="jrcajide.jpg">
 
-Data Scientist at El Arte de Medir
+*I enjoy finding patterns in data. I'm happy when they solve a problem.*
 
-[GitHub](https://github.com/joseramoncajide/)
+Data Scientist specialized in digital and customer analytics.
+
+In my public [GitHub repository](https://github.com/joseramoncajide/) you'll find how I spend most of my free time.
 
 ## Featured repositories
 

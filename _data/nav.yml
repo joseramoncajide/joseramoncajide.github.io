@@ -1,8 +1,8 @@
 - name: "Contact"
   link: "contact"
 
-- name: "CV"
-  link: "jrcajide_cv.pdf"
+- name: "LinkedIn profile"
+  link: "https://www.linkedin.com/in/jrcajide/"
 
-- name: "About"
-  link: "/researcher/"
+- name: "GitHub"
+  link: "https://github.com/joseramoncajide"
