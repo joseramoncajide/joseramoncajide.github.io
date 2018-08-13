@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Jose Ramon Cajide home page
 ---
 
 ## About Me
