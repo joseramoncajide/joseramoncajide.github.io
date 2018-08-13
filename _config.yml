@@ -1,0 +1,15 @@
+title: Researcher
+url: "https://joseramoncajide.github.io"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/joseramoncajide"
+footer_text: "Personal website"
+
+sass:
+    style: compressed
+    sass_dir: _sass
