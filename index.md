@@ -13,6 +13,7 @@ Data Scientist specialized in digital and customer analytics.
 
 In my public [GitHub repository](https://github.com/joseramoncajide/) you'll find how I spend most of my free time.
 
+
 ## Featured repositories
 
 1. [A Data Science project in Banking Domain](https://github.com/joseramoncajide/master_data_science_capstone/)
@@ -25,6 +26,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 2. Open University of Catalonia - UOC 2018: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
 3. DataKonferences 2018: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
 
+
 ## Accompanying code repositories for my classes
 
 1. [Master in Data Science](https://github.com/joseramoncajide/master_data_science)
@@ -34,11 +36,16 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 5. [Master in Web Analytics. R.](https://github.com/joseramoncajide/kschool_r)
 6. [DataViz course](https://github.com/joseramoncajide/r_curso_visualizacion_de_datos)
 
+
 ## Latest readings
+
+Many people ask me what books they should read to become a Data Scientist. There are a lot of good books out there, some of them are also listed [here](https://www.bbvadata.com/recommended-readings-data-science/) or [here](http://elartedemedir.com/blog/evolucion-analista-autoaprendizaje/).
+
+ These are the ones that are shaping my path into Data Science:
 
 * 2018-08 [Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning](http://shop.oreilly.com/product/0636920057628.do)
 * 2018-08 [Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management](https://www.wiley.com/en-us/Data+Mining+Techniques%3A+For+Marketing%2C+Sales%2C+and+Customer+Relationship+Management%2C+3rd+Edition-p-9781118087459)
-* 2018-06 [DEEP LEARNING Introducción práctica con Keras](https://www.jorditorres.org/DeepLearning)
+* 2018-06 [Deep Learning: Introducción práctica con Keras](https://www.jorditorres.org/DeepLearning)
 * 2018-04 [Hands-On Machine Learning with Scikit-Learn and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems](http://shop.oreilly.com/product/0636920052289.do)
 * 2018-04 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * 2018-03 [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
