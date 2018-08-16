@@ -25,6 +25,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 1. ERP&CRM Day 2018: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm)
 2. Open University of Catalonia - UOC 2018: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
 3. DataKonferences 2018: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
+4. e-show Barcelona 2016: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
 
 
 ## Accompanying code repositories for my classes
