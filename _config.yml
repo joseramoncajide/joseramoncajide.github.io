@@ -6,6 +6,8 @@ markdown: kramdown
 
 tracking_id: UA-41316080-3
 
+gtm_id: GTM-5XWLMQN
+
 footer: yes
 footer_url: ""
 footer_text: "If you are the smartest person in the room, then you are in the wrong room."
