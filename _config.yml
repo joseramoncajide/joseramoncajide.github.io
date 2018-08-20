@@ -4,7 +4,7 @@ baseurl: "/"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-41316080-3
 
 footer: yes
 footer_url: ""
