@@ -20,9 +20,12 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 2. [Machine Learning and Human Activity Recognition: Building a Classifier for Wearable Accelerometers’ Data](https://github.com/joseramoncajide/Human_Activity_Recognition/)
 
 
-## Latest talks
+## Upcoming events
+1. The Digital Change, Barcelona 2018: Data Science
+2. Summit Clientes, Madrid 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
 
-1. ERP&CRM Day 2018: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm)
+## Latest talks
+1. ERP&CRM Day 2018: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm) - Video Interview by La Neurona: [Optimiza tu ecommerce con Data Science](http://laneurona.com/video/optimiza-tu-ecommerce-con-data-science/)
 2. Open University of Catalonia - UOC 2018: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
 3. DataKonferences 2018: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
 4. e-show Barcelona 2016: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
@@ -48,8 +51,8 @@ Many people ask me what books they should read to become a Data Scientist. There
 * 2018-08 [Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management](https://www.wiley.com/en-us/Data+Mining+Techniques%3A+For+Marketing%2C+Sales%2C+and+Customer+Relationship+Management%2C+3rd+Edition-p-9781118087459)
 * 2018-06 [Deep Learning: Introducción práctica con Keras](https://www.jorditorres.org/DeepLearning)
 * 2018-04 [Hands-On Machine Learning with Scikit-Learn and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems](http://shop.oreilly.com/product/0636920052289.do)
-* 2018-04 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-* 2018-03 [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
+* 2018-04 [Deep Learning with Python](https://amzn.to/2nRCUOp#Deep Learning with Python)
+* 2018-03 [Deep Learning with R](https://amzn.to/2MZHtkB#Deep Learning with R)
 * 2018-03 [Introduction to Algorithmic Marketing: Artificial Intelligence for Marketing Operations](https://algorithmic-marketing.online/) - In progress
 * 2017-10 [Artificial Intelligence for Marketing: Practical Applications](https://books.google.es/books/about/Artificial_Intelligence_for_Marketing.html?id=o_YtDwAAQBAJ&redir_esc=y&hl=en)  - In progress
 * 2017-09 [Customer Analytics](http://www.editorialuoc.cat/customer-analytics)
