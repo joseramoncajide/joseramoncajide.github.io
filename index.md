@@ -13,7 +13,7 @@ Data Scientist specialized in digital and customer analytics.
 
 In my public [GitHub repository](https://github.com/joseramoncajide/) you'll find how I spend most of my free time.
 
-# Just published:
+## Just published
 1. Towards Data Science: [Doing Data Science at the command line in Google Cloud Platform](https://towardsdatascience.com/doing-data-science-at-the-command-line-38fe9f17121d)
 
 
