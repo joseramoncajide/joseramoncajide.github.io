@@ -13,14 +13,11 @@ Data Scientist specialized in digital and customer analytics.
 
 In my public [GitHub repository](https://github.com/joseramoncajide/) you'll find how I spend most of my free time.
 
-
-## Featured repositories
-
-1. [A Data Science project in Banking Domain](https://github.com/joseramoncajide/master_data_science_capstone/)
-2. [Machine Learning and Human Activity Recognition: Building a Classifier for Wearable Accelerometers’ Data](https://github.com/joseramoncajide/Human_Activity_Recognition/)
+# Just published:
+1. Towards Data Science: [Doing Data Science at the command line in Google Cloud Platform](https://towardsdatascience.com/doing-data-science-at-the-command-line-38fe9f17121d)
 
 
-## Upcoming events
+## Upcoming talks
 1. The Digital Change, Barcelona 2018: Data Science
 2. Summit Clientes, Madrid 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
 
@@ -29,6 +26,11 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 2. Open University of Catalonia - UOC 2018: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
 3. DataKonferences 2018: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
 4. e-show Barcelona 2016: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
+
+## Featured repositories
+
+1. [A Data Science project in Banking Domain](https://github.com/joseramoncajide/master_data_science_capstone/)
+2. [Machine Learning and Human Activity Recognition: Building a Classifier for Wearable Accelerometers’ Data](https://github.com/joseramoncajide/Human_Activity_Recognition/)
 
 
 ## Accompanying code repositories for my classes
