@@ -15,19 +15,20 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 
 ## Just published
 1. Towards Data Science: [Doing Data Science at the command line in Google Cloud Platform](https://towardsdatascience.com/doing-data-science-at-the-command-line-38fe9f17121d)
-
+https://kschool.com/blog/analitica-web/la-ciencia-de-datos-al-servicio-de-la-analitica-digital/
 
 ## Upcoming talks
-1. The Digital Change, Barcelona 2018: Data Science
-2. Summit Clientes, Madrid 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
+
+* Summit Clientes, Madrid 30 octubre 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
 
 ## Latest talks
-1. ERP&CRM Day 2018: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm) - Video Interview by La Neurona: [Optimiza tu ecommerce con Data Science](http://laneurona.com/video/optimiza-tu-ecommerce-con-data-science/)
-2. Open University of Catalonia - UOC 2018: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
-3. DataKonferences 2018: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
-4. e-show Barcelona 2016: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
+* The Digital Change 2018 [Barcelona]: [Data Science en 20'](https://www.slideshare.net/JoseRamnCajideFernnd/ciencia-de-datos-20)
+* ERP&CRM Day 2018 [Madrid]: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm) - Video Interview by La Neurona: [Optimiza tu ecommerce con Data Science](http://laneurona.com/video/optimiza-tu-ecommerce-con-data-science/)
+* Open University of Catalonia - UOC 2018 [Madrid]: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
+* DataKonferences 2018 [Madrid]: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
+* e-show Barcelona 2016 [Barcelona]: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
 
-## Featured repositories
+## Featured public repositories
 
 1. [A Data Science project in Banking Domain](https://github.com/joseramoncajide/master_data_science_capstone/)
 2. [Machine Learning and Human Activity Recognition: Building a Classifier for Wearable Accelerometers’ Data](https://github.com/joseramoncajide/Human_Activity_Recognition/)
