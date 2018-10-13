@@ -28,6 +28,12 @@ https://kschool.com/blog/analitica-web/la-ciencia-de-datos-al-servicio-de-la-ana
 * DataKonferences 2018 [Madrid]: [Predictive Customer lifetime value in no contractual settings](https://github.com/joseramoncajide/data_konferences)
 * e-show Barcelona 2016 [Barcelona]: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
 
+## Interviews
+* [La evolución del analista digital: autoaprendizaje](https://www.ivoox.com/evolucion-del-analista-digital-autoaprendizaje-audios-mp3_rf_26882405_1.html)
+* [Cómo medir el impacto de una campaña offline en un entorno online](https://www.ivoox.com/como-medir-impacto-campana-offline-audios-mp3_rf_25608972_1.html)
+* [Modelo de scoring de usuarios en analítica digital](https://www.ivoox.com/scoring-analitica-digital-audios-mp3_rf_18968500_1.html)
+* [Manejo de datos](http://prnoticias.com/podcast/ondacro/analitica-digital/20159261-extraer-datos-y-empezar-a-trabajar)
+
 ## Featured public repositories
 
 1. [A Data Science project in Banking Domain](https://github.com/joseramoncajide/master_data_science_capstone/)
