@@ -15,7 +15,6 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 
 ## Just published
 1. Towards Data Science: [Doing Data Science at the command line in Google Cloud Platform](https://towardsdatascience.com/doing-data-science-at-the-command-line-38fe9f17121d)
-https://kschool.com/blog/analitica-web/la-ciencia-de-datos-al-servicio-de-la-analitica-digital/
 
 ## Upcoming talks
 
