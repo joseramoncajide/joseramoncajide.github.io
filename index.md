@@ -39,15 +39,16 @@ https://kschool.com/blog/analitica-web/la-ciencia-de-datos-al-servicio-de-la-ana
 1. [A Data Science project in Banking Domain](https://github.com/joseramoncajide/master_data_science_capstone/)
 2. [Machine Learning and Human Activity Recognition: Building a Classifier for Wearable Accelerometers’ Data](https://github.com/joseramoncajide/Human_Activity_Recognition/)
 
-
 ## Accompanying code repositories for my classes
 
-1. [Master in Data Science](https://github.com/joseramoncajide/master_data_science)
-2. [Master in Big Data](https://github.com/joseramoncajide/master_big_data)
-3. [Master in Customer Analytics](https://github.com/joseramoncajide/customer_analytics)
-4. [R Introductory course](https://github.com/joseramoncajide/curso_introduccion_R)
-5. [Master in Web Analytics. R.](https://github.com/joseramoncajide/kschool_r)
-6. [DataViz course](https://github.com/joseramoncajide/r_curso_visualizacion_de_datos)
+* [Master in Big Data](https://github.com/joseramoncajide/esden_applied_datascience) (Esden Business School)
+* [Master in Data Science](https://github.com/joseramoncajide/master_data_science) (Kschool)
+* [Master in Big Data](https://github.com/joseramoncajide/master_big_data) (Kschool)
+* [Master in Customer Analytics](https://github.com/joseramoncajide/customer_analytics) (INESDI)
+* [R Introductory course](https://github.com/joseramoncajide/curso_introduccion_R) (Kschool)
+* [Master in Web Analytics. R.](https://github.com/joseramoncajide/kschool_r) (Kschool)
+* [DataViz course](https://github.com/joseramoncajide/r_curso_visualizacion_de_datos) (Incompany)
+
 
 
 ## Latest readings
