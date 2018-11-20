@@ -9,7 +9,7 @@ title: Jose Ramon Cajide home page
 
 *I enjoy finding patterns in data. I'm happy when they solve a problem.*
 
-Data Scientist specialized in digital and customer analytics.
+Data Scientist specialized in digital and customer and marketing analytics.
 
 In my public [GitHub repository](https://github.com/joseramoncajide/) you'll find how I spend most of my free time.
 
