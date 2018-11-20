@@ -54,7 +54,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 Many people ask me what books they should read to become a Data Scientist. There are a lot of good books out there, some of them are also listed [here](https://www.bbvadata.com/recommended-readings-data-science/) or [here](http://elartedemedir.com/blog/evolucion-analista-autoaprendizaje/).
 
  These are the ones that are shaping my path into Data Science:
-
+* 2018-11 [Predictive Marketing: Easy Ways Every Marketer Can Use Customer Analytics and Big Data](https://www.amazon.es/gp/product/1119037360/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 * 2018-08 [Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning](http://shop.oreilly.com/product/0636920057628.do)
 * 2018-08 [Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management](https://www.wiley.com/en-us/Data+Mining+Techniques%3A+For+Marketing%2C+Sales%2C+and+Customer+Relationship+Management%2C+3rd+Edition-p-9781118087459)
 * 2018-06 [Deep Learning: Introducción práctica con Keras](https://www.jorditorres.org/DeepLearning)
