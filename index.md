@@ -16,11 +16,9 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 ## Just published
 1. Towards Data Science: [Doing Data Science at the command line in Google Cloud Platform](https://towardsdatascience.com/doing-data-science-at-the-command-line-38fe9f17121d)
 
-## Upcoming talks
-
-* Summit Clientes, Madrid 30 octubre 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
 
 ## Latest talks
+* Summit Clientes, Madrid 30 octubre 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
 * The Digital Change 2018 [Barcelona]: [Data Science en 20'](https://www.slideshare.net/JoseRamnCajideFernnd/ciencia-de-datos-20)
 * ERP&CRM Day 2018 [Madrid]: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm) - Video Interview by La Neurona: [Optimiza tu ecommerce con Data Science](http://laneurona.com/video/optimiza-tu-ecommerce-con-data-science/)
 * Open University of Catalonia - UOC 2018 [Madrid]: [Ser científico de datos](https://www.slideshare.net/JoseRamnCajideFernnd/ser-cientfico-de-datos?trk=v-feed)
@@ -28,6 +26,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 * e-show Barcelona 2016 [Barcelona]: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
 
 ## Interviews
+* [A golbe de bit](http://www.rtve.es/alacarta/audios/a-golpe-de-bit/golpe-bit-octava-edicion-big-data-19-11-18/4847263/) Interview by Marta Fajardo (RNE) at Big Data Spain 2018 (Min.21' - sp)
 * [La evolución del analista digital: autoaprendizaje](https://www.ivoox.com/evolucion-del-analista-digital-autoaprendizaje-audios-mp3_rf_26882405_1.html)
 * [Cómo medir el impacto de una campaña offline en un entorno online](https://www.ivoox.com/como-medir-impacto-campana-offline-audios-mp3_rf_25608972_1.html)
 * [Modelo de scoring de usuarios en analítica digital](https://www.ivoox.com/scoring-analitica-digital-audios-mp3_rf_18968500_1.html)
