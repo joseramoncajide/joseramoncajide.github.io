@@ -26,7 +26,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 * e-show Barcelona 2016 [Barcelona]: [R, la Revolución de la analítica digital](https://es.slideshare.net/JoseRamnCajideFernnd/r-la-revolucin-de-la-analtica-digital)
 
 ## Interviews
-* [A golbe de bit](http://www.rtve.es/alacarta/audios/a-golpe-de-bit/golpe-bit-octava-edicion-big-data-19-11-18/4847263/) Interview by Marta Fajardo (RNE) at Big Data Spain 2018 (Min.21' - sp)
+* [A golpe de bit](http://www.rtve.es/alacarta/audios/a-golpe-de-bit/golpe-bit-octava-edicion-big-data-19-11-18/4847263/) Interview by Marta Fajardo (RNE) at Big Data Spain 2018 (Min.21' - sp)
 * [La evolución del analista digital: autoaprendizaje](https://www.ivoox.com/evolucion-del-analista-digital-autoaprendizaje-audios-mp3_rf_26882405_1.html)
 * [Cómo medir el impacto de una campaña offline en un entorno online](https://www.ivoox.com/como-medir-impacto-campana-offline-audios-mp3_rf_25608972_1.html)
 * [Modelo de scoring de usuarios en analítica digital](https://www.ivoox.com/scoring-analitica-digital-audios-mp3_rf_18968500_1.html)
@@ -54,6 +54,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 Many people ask me what books they should read to become a Data Scientist. There are a lot of good books out there, some of them are also listed [here](https://www.bbvadata.com/recommended-readings-data-science/) or [here](http://elartedemedir.com/blog/evolucion-analista-autoaprendizaje/).
 
  These are the ones that are shaping my path into Data Science:
+* 2019-01 [Recommender Systems: The Textbook](https://www.amazon.es/gp/product/3319296574/ref=ppx_yo_dt_b_asin_title_o07__o00_s00?ie=UTF8&psc=1)
 * 2018-11 [Predictive Marketing: Easy Ways Every Marketer Can Use Customer Analytics and Big Data](https://www.amazon.es/gp/product/1119037360/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 * 2018-10 [Cloudera Impala (English Edition)](https://www.amazon.es/gp/product/B00NO8HB5W/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)
 * 2018-08 [Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning](http://shop.oreilly.com/product/0636920057628.do)
