@@ -9,7 +9,7 @@ title: Jose Ramon Cajide home page
 
 *I enjoy finding patterns in data. I'm happy when they solve a problem.*
 
-Data Scientist specialized in digital and customer and marketing analytics.
+Data Scientist specialized in customer and  marketing analytics. Now developing and implementing machine learning models at Ryanair.
 
 In my public [GitHub repository](https://github.com/joseramoncajide/) you'll find how I spend most of my free time.
 
