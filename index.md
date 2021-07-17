@@ -18,6 +18,7 @@ In my public [GitHub repository](https://github.com/joseramoncajide/) you'll fin
 
 
 ## Latest talks
+* International News Media Association (INMA) 16 julio 2021:  [Audience Analytics](http://www.inma.org)
 * Summit Clientes, Madrid 30 octubre 2018:  [Inteligencia para sumar al negocio desde los Clientes](http://laneurona.com/agenda_evento/summit-clientes-madrid/)
 * The Digital Change 2018 [Barcelona]: [Data Science en 20'](https://www.slideshare.net/JoseRamnCajideFernnd/ciencia-de-datos-20)
 * ERP&CRM Day 2018 [Madrid]: [Modelos predictivos. El conocimiento del cliente para mejorar la experiencia de marca](https://es.slideshare.net/JoseRamnCajideFernnd/modelos-predictivos-para-crm) - Video Interview by La Neurona: [Optimiza tu ecommerce con Data Science](http://laneurona.com/video/optimiza-tu-ecommerce-con-data-science/)
